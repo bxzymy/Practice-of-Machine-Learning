@@ -6,3 +6,9 @@ Run perceptron.p can train and test the model.
 transMnist.py可以把.gz文件转化为.csv
 perceptron.py可以训练和测试模型（迭代50次情况下，准确率约80%）
 代码框架来自课程助教，感谢他！
+
+完整的项目包括
+.idea
+Minst
+perceptron.py
+transMinst.py
